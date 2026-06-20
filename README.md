@@ -9,7 +9,8 @@
 
 
 <div align="center">
-<img width="447" height="447" alt="image" src="https://github.com/user-attachments/assets/b6b8462a-989d-4937-bdaa-45c4b0d74f79" />
+<img width="573" height="349" alt="result" src="https://github.com/user-attachments/assets/b52ba40a-18c5-4617-af01-e513cc96be2a" />
+
 
 
 

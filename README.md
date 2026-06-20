@@ -1,7 +1,7 @@
 <p align="center">
-  <a href="https://github.com/nyxarchve">
+  <a href="https://music.youtube.com/watch?v=P6e2_ID1jA4&si=h1n5wV-yVcEbDT6I">
     <b><span style="color:#68544e;">
-      Please... You're making this so much harder than it needs to be..
+      I don't wanna go, but I chose my own fate..
     </span></b>
   </a>
 </p>

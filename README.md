@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://music.youtube.com/watch?v=P6e2_ID1jA4&si=h1n5wV-yVcEbDT6I">
     <b><span style="color:#68544e;">
-      I don't wanna go, but I chose my own fate..
+      You're making this... SO hard..
     </span></b>
   </a>
 </p>

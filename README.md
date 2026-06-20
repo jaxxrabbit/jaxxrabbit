@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://github.com/nyxarchve">
     <b><span style="color:#68544e;">
-      Your sweet and lovely hands, your warm and friendly face..
+      Please... You're making this so much harder than it needs to be..
     </span></b>
   </a>
 </p>

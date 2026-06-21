@@ -1,7 +1,7 @@
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=P6e2_ID1jA4&si=h1n5wV-yVcEbDT6I">
+  <a href="https://youtu.be/yFbxZpBZmyk?si=0ORFXNotHj2RcEg3">
     <b><span style="color:#68544e;">
-      You're making this... SO hard..
+      This is my theme song guys. Press this.
     </span></b>
   </a>
 </p>

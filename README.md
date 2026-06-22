@@ -6,7 +6,9 @@
   </a>
 </p>
 
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8000FF&center=true&vCenter=true&width=1200&lines=I+pretended+not+to+care,+and+I've+finally+shown+I+do.+But+I+showed+it+too+late.." />
+</p>
 
 <div align="center">
 <img width="573" height="349" alt="result" src="https://github.com/user-attachments/assets/b52ba40a-18c5-4617-af01-e513cc96be2a" />

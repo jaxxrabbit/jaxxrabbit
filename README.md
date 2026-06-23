@@ -11,9 +11,12 @@
 </p>
 
 <div align="center">
-<img width="554" height="554" alt="result" src="https://github.com/user-attachments/assets/858d8180-e8d6-406a-b788-0b8789612d65" />
+<img width="480" height="480" alt="y93r0js226gf1" src="https://github.com/user-attachments/assets/88adb560-5e4c-4c77-94c6-073a01ddf529" />
 
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8000FF&center=true&vCenter=true&width=1200&lines=Stop+saying+I'm+not+supposed+to+love+you+when+I+REALLY+do.."/>
+</p>
 
 
 <p align="center">

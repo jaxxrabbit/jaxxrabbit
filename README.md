@@ -49,21 +49,21 @@
 
 yo i'm **Jaazxee**.
 
-I'm a random dude who enjoys drawing, voice acting, gaming, and spending way too much time thinking about fictional characters.
+Hi!! I'm Jaazxee! You can call me Jax or Evly!
 
 Most of the time you'll find me:
 
-afk
+Afk... I get distracted..
 
-possibly doing voices for friends
+Singing and dubbing comics.
 
-playing vrchat
+On VRChat with my friends.
 
-on youtube
+On YouTube.
 
-making skins that i'll never actually finish like ever
+Making skins.
 
-working on my au: "A True Fear"
+Working on my very old au: "A True Fear"
 
 ---
 
@@ -73,11 +73,11 @@ working on my au: "A True Fear"
 
 | Fandom | Status |
 |----------|----------|
-| 🐻 FNaF | Fav |
-| 🎪 TADC | TOP GUYS |
-| 🖌️ AVA | Por Favor? |
-| 🖤 BaTIM | I like this |
-| 💙 Sonic The Hedgehog | Meow |
+| FNaF ! ! | Fav |
+| TADC ! ! | TOP GUYS |
+| AVA ! ! !| Por Favor? |
+| BATIM !  | I like this |
+| STH ! !  | Heh! Yeah!! |
 
 </div>
 
@@ -86,11 +86,11 @@ working on my au: "A True Fear"
 # Normal mood loops
 
 ```text
-Lazy          █████████░░
-Thinking      ████████░░░
+Worried          █████████░░
+Overthinking      ████████░░░
 AU working        ██████████░
 Drawing       █████████░░
-Motivation    ██░░░░░░░░░
+Letting myself go    ██░░░░░░░░░
 ```
 
 ---
@@ -117,17 +117,17 @@ Motivation    ██░░░░░░░░░
 # AU quotes + real quotes
 
 ```text
-"STOP! What's wrong with you?!"
+"Please, stop! Why are you doing this..?"
 
-"I won't care for all of 'em."
+"I care about you, I miss you, I LOVE you.."
 
 "What is going o- AH!"
 
-"I don't NEED your pity.."
+"I'm sorry, Pomni.."
 
 "Have you ever... done something you regret?"
 
-"I don't have friends because I pushed HER away!"
+"My friend.. she abstracted a long time ago.. I blame myself sometimes.. I wish I could've done more to.. She just... m-masked it so well.."
 ```
 
 ---
@@ -157,7 +157,7 @@ Favorite Fandoms:
   - TADC
   - AVA
   - BaTIM
-  - Sonic The Hedgehog
+  - STH
 
 Current Objective:
   Be the mom friend.
@@ -170,16 +170,17 @@ Achievement:
 
 <div align="center">
 
-## Yo thanks!
+## TYSM !!
+
 
 <div align="center">
 
 
-<img width="220" height="191" alt="jax-digital-circus" src="https://github.com/user-attachments/assets/ae098d16-ac9e-4486-9a16-f61202db0acb" />
+<img width="225" height="225" alt="result" src="https://github.com/user-attachments/assets/4c721a4f-b2fb-4852-8893-8322c4356f50" />
 
 
 <br>
 
-*"The circus never forgets."*
+*"Hey, Pomni... Just so you know.. I-I'm here for you.. whenever you need me."*
 
 

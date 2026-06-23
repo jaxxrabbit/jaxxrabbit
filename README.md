@@ -1,17 +1,18 @@
 <p align="center">
   <a href="https://youtu.be/yFbxZpBZmyk?si=0ORFXNotHj2RcEg3">
     <b><span style="color:#68544e;">
-      This is my theme song guys. Press this.
+     Press this if you hate the og Jax.
     </span></b>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8000FF&center=true&vCenter=true&width=1200&lines=I+pretended+not+to+care,+and+I've+finally+shown+I+do.+But+I+showed+it+too+late.." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8000FF&center=true&vCenter=true&width=1200&lines=Oh!+Hi!+You+must+be+the+new+jester!+I'm+Jax!" />
 </p>
 
 <div align="center">
-<img width="573" height="349" alt="result" src="https://github.com/user-attachments/assets/b52ba40a-18c5-4617-af01-e513cc96be2a" />
+<img width="554" height="554" alt="result" src="https://github.com/user-attachments/assets/858d8180-e8d6-406a-b788-0b8789612d65" />
+
 
 
 
@@ -27,17 +28,17 @@
 # ✦ Jaazxee ✦
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=32&pause=1000&color=8000FF&center=true&vCenter=true&width=900&lines=I+don't+wanna+go.." />
+  <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=32&pause=1000&color=8000FF&center=true&vCenter=true&width=900&lines=We+can+try+to+be+better." />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8000FF&center=true&vCenter=true&width=1200&lines=It's+too+late.+I+did+this+to+myself.." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8000FF&center=true&vCenter=true&width=1200&lines=Guys!+I+think+I+found+a+way+out!." />
 </p>
 
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Jaazxee&label=Profile+Views&color=8A2BE2&style=for-the-badge">
+<img src="https://komarev.com/ghpvc/?username=Jaazxee&label=Kind+Jax+lovers&color=8A2BE2&style=for-the-badge">
 
 </div>
 

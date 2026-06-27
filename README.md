@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://youtu.be/yFbxZpBZmyk?si=0ORFXNotHj2RcEg3">
     <b><span style="color:#68544e;">
-     Press this if you hate the og Jax.
+     DONATE TO THIS SONG.
     </span></b>
   </a>
 </p>

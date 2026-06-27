@@ -7,15 +7,15 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8000FF&center=true&vCenter=true&width=1200&lines=Oh!+Hi!+You+must+be+the+new+jester!+I'm+Jax!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8000FF&center=true&vCenter=true&width=1200&lines=OH+no<+I'm+gay..." />
 </p>
 
 <div align="center">
-<img width="480" height="480" alt="y93r0js226gf1" src="https://github.com/user-attachments/assets/88adb560-5e4c-4c77-94c6-073a01ddf529" />
+<img width="1200" height="746" alt="result" src="https://github.com/user-attachments/assets/049b44ba-6b30-449c-bc0e-d2611f79850d" />
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8000FF&center=true&vCenter=true&width=1200&lines=You+held+me+close,+and+helped+me+understand.."/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8000FF&center=true&vCenter=true&width=1200&lines=You+held+me+close,+and+made+me+understand.."/>
 </p>
 
 
@@ -35,7 +35,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8000FF&center=true&vCenter=true&width=1200&lines=Guys!+I+think+I+found+a+way+out!." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8000FF&center=true&vCenter=true&width=1200&lines=If+we've+only+got+each+other,+mght+as+well+just+try." />
 </p>
 
 

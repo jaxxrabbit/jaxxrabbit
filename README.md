@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8000FF&center=true&vCenter=true&width=1200&lines=OH+no,+I'm+gay..." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8000FF&center=true&vCenter=true&width=1200&lines=I+don't+deserve+you..." />
 </p>
 
 <div align="center">

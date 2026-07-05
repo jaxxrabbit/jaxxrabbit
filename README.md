@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8000FF&center=true&vCenter=true&width=1200&lines=I+don't+deserve+you..." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8000FF&center=true&vCenter=true&width=1200&lines=There's+nothing+more+to+me..." />
 </p>
 
 <div align="center">
@@ -42,7 +42,7 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Jaazxee&label=Kind+Jax+lovers&color=8A2BE2&style=for-the-badge">
+<img src="https://komarev.com/ghpvc/?username=Jaazxee&label=WHO+WANTS+TO+FUCK+AROUND&color=8A2BE2&style=for-the-badge">
 
 </div>
 
@@ -131,7 +131,7 @@ Letting myself go    ██░░░░░░░░░
 
 "Have you ever... done something you regret?"
 
-"My friend.. she abstracted a long time ago.. I blame myself sometimes.. I wish I could've done more to.. She just... m-masked it so well.."
+"Thank you, everyone. For all of those who tried to help me."
 ```
 
 ---
@@ -164,10 +164,10 @@ Favorite Fandoms:
   - STH
 
 Current Objective:
-  Be the mom friend.
+  Fuck around.
 
 Achievement:
-  Keep everyone sane and happy.
+  Torment everyone.
 ```
 
 ---
@@ -185,6 +185,6 @@ Achievement:
 
 <br>
 
-*"Hey, Pomni... Just so you know.. I-I'm here for you.. whenever you need me."*
+*"I'm.. sorry, guys... I'm sorry.. Pomni. I was HORRIBLE to you guys.. I don't deserve to be forgiven.. You're not supposed to care.. You weren't supposed to miss me... YOU WEREN'T SUPPOSED TO LOVE ME.."*
 
 

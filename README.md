@@ -1,7 +1,7 @@
 <p align="center">
-  <a href="https://youtu.be/yFbxZpBZmyk?si=0ORFXNotHj2RcEg3">
+  <a href="https://open.spotify.com/track/7diVlzyyNKUbwOBJg2Mu1V?si=827c1788cd1f4cfb">
     <b><span style="color:#68544e;">
-     DONATE TO THIS SONG.
+     This song is genuinely my whole life (NOT ROLEPLAY!!).
     </span></b>
   </a>
 </p>

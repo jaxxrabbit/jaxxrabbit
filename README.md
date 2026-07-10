@@ -1,17 +1,18 @@
 <p align="center">
   <a href="https://open.spotify.com/track/7diVlzyyNKUbwOBJg2Mu1V?si=827c1788cd1f4cfb">
     <b><span style="color:#68544e;">
-     This song is genuinely my whole life (NOT ROLEPLAY!!).
+     🪦💐
     </span></b>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8000FF&center=true&vCenter=true&width=1200&lines=There's+nothing+more+to+me..." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8000FF&center=true&vCenter=true&width=1200&lines=Hi,+I-I'm+Evil+Jax!.." />
 </p>
 
 <div align="center">
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/fabbb2cf-50e1-4aa7-83a0-533a0c9a7d26" />
+<img width="666" height="375" alt="image" src="https://github.com/user-attachments/assets/4578d73d-b901-47d6-93d7-79a707d9d150" />
+
 
 
 
@@ -42,7 +43,7 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Jaazxee&label=WHO+WANTS+TO+FUCK+AROUND&color=8A2BE2&style=for-the-badge">
+<img src="https://komarev.com/ghpvc/?username=Jaazxee&label=Let's+spread+kindness?&color=8A2BE2&style=for-the-badge">
 
 </div>
 
@@ -164,10 +165,10 @@ Favorite Fandoms:
   - STH
 
 Current Objective:
-  Fuck around.
+  Try not to fuck around.
 
 Achievement:
-  Torment everyone.
+  Spread the love I wish I had.
 ```
 
 ---

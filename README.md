@@ -7,11 +7,12 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8000FF&center=true&vCenter=true&width=1200&lines=Hi,+I-I'm+Evil+Jax!.." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8000FF&center=true&vCenter=true&width=1200&lines=Good+thing+this+is+all+a+dream.+Right,+Pomni?" />
 </p>
 
 <div align="center">
-<img width="666" height="375" alt="image" src="https://github.com/user-attachments/assets/4578d73d-b901-47d6-93d7-79a707d9d150" />
+<img width="521" height="479" alt="image" src="https://github.com/user-attachments/assets/0022b88d-8a41-41b5-9525-6141efb04dfc" />
+
 
 
 
@@ -43,7 +44,7 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Jaazxee&label=Let's+spread+kindness?&color=8A2BE2&style=for-the-badge">
+<img src="https://komarev.com/ghpvc/?username=Jaazxee&label=Lets+spread+joy+and+humor+together&color=8A2BE2&style=for-the-badge">
 
 </div>
 
@@ -92,10 +93,9 @@ Working on my very old au: "A True Fear"
 
 ```text
 Worried          █████████░░
-Overthinking      ████████░░░
-AU working        ██████████░
-Drawing       █████████░░
-Letting myself go    ██░░░░░░░░░
+Overthinking      ████████░░░        Sitting alone in my room██████████░
+Near abstracting    █████████░░
+Accepting help   ██░░░░░░░░░
 ```
 
 ---
@@ -132,7 +132,7 @@ Letting myself go    ██░░░░░░░░░
 
 "Have you ever... done something you regret?"
 
-"Thank you, everyone. For all of those who tried to help me."
+"Thank you, everyone To those who tried to help me."
 ```
 
 ---
@@ -165,7 +165,7 @@ Favorite Fandoms:
   - STH
 
 Current Objective:
-  Try not to fuck around.
+  Try not to fuck around.. and fail 😇
 
 Achievement:
   Spread the love I wish I had.

@@ -1,7 +1,7 @@
 <p align="center">
-  <a href="https://open.spotify.com/track/7diVlzyyNKUbwOBJg2Mu1V?si=827c1788cd1f4cfb">
+  <a href="https://open.spotify.com/track/1PXbfWBzFC5u9gnHAQl5rL?si=4256ab6eceeb4849>
     <b><span style="color:#68544e;">
-     🪦💐
+     NO THIS IS AI IT'S NOT WHAT IT LOOKS LIKE!
     </span></b>
   </a>
 </p>

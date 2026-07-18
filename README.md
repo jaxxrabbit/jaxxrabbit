@@ -130,9 +130,9 @@ Accepting help   ██░░░░░░░░░
 
 "I'm sorry, Pomni.."
 
-"Have you ever... done something you regret?"
+"I'll NEVER fall in love again.."
 
-"Thank you, everyone To those who tried to help me."
+"Thank you, everyone. Whoever tried to help me."
 ```
 
 ---
@@ -165,10 +165,10 @@ Favorite Fandoms:
   - STH
 
 Current Objective:
-  Try not to fuck around.. and fail 😇
+  Try not to #%🎩!? around.. and fail 😇
 
 Achievement:
-  Spread the love I wish I had.
+  YOU KNOW WHAT WHO NEEDS LOVE IF YOU DON' GOT A HEART?
 ```
 
 ---

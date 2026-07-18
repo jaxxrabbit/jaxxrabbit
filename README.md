@@ -11,7 +11,8 @@
 </p>
 
 <div align="center">
-<img width="521" height="479" alt="image" src="https://github.com/user-attachments/assets/0022b88d-8a41-41b5-9525-6141efb04dfc" />
+<img width="1111" height="1104" alt="result" src="https://github.com/user-attachments/assets/4314a3b4-ffa1-4b39-9fc7-c4162ec19db3" />
+
 
 
 

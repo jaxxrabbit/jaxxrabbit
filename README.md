@@ -1,13 +1,13 @@
 <p align="center">
-  <a href="https://open.spotify.com/track/1PXbfWBzFC5u9gnHAQl5rL?si=4256ab6eceeb4849>
+  <a href="https://youtu.be/G_ks0Wbdy94?si=8bmTUvFNsKJw7Mp_>
     <b><span style="color:#68544e;">
-     NO THIS IS AI IT'S NOT WHAT IT LOOKS LIKE!
+    "Even if I had a chance to apologize, I still won't come back."
     </span></b>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8000FF&center=true&vCenter=true&width=1200&lines=Good+thing+this+is+all+a+dream.+Right,+Pomni?" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8000FF&center=true&vCenter=true&width=1200&lines=Have+you+ever...+wondered+why+people+leave+and+never+come+back?" />
 </p>
 
 <div align="center">
@@ -33,27 +33,27 @@
 # ✦ Jaazxee ✦
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=32&pause=1000&color=8000FF&center=true&vCenter=true&width=900&lines=We+can+try+to+be+better." />
+  <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=32&pause=1000&color=8000FF&center=true&vCenter=true&width=900&lines=Okay,+yes.+I'm+an+unredeemable+monster." />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8000FF&center=true&vCenter=true&width=1200&lines=If+we've+only+got+each+other,+mght+as+well+just+try." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8000FF&center=true&vCenter=true&width=1200&lines=You+know,+even+if+I'm+gone,+you+know+where+to+find+me." />
 </p>
 
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Jaazxee&label=Lets+spread+joy+and+humor+together&color=8A2BE2&style=for-the-badge">
+<img src="https://komarev.com/ghpvc/?username=Jaazxee&label=Who+wants+me+to+come+back+as+a+woman+or+some+smth?&color=8A2BE2&style=for-the-badge">
 
 </div>
 
-# Press for AU info!
+# Sign my straw !!
 
 <div align="center">
 
 <p align="center">
-  <a href="https://atruefear.straw.page" target="_blank">
-    <img src="https://img.shields.io/badge/%20A%20True%20Fear-Visit%20My%20Strawpage-purple?style=for-the-badge" alt="A True Fear">
+  <a href="https://wasntilovely.straw.page" target="_blank">
+    <img src="https://img.shields.io/badge/%20we%20love%20you-Visit%20My%20Strawpage-purple?style=for-the-badge" alt="I+was+supposed+to+love+you">
   </a>
 </p>
 
